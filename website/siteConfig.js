@@ -21,7 +21,7 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'Pharus', // Title for your website.
+  title: 'PHARUS', // Title for your website.
   tagline: 'Manual de uso Pharus',
   url: 'https://eventos.ifnmg.edu.br', // Your website URL
   baseUrl: '/', // Base URL for your project */
@@ -54,8 +54,8 @@ const siteConfig = {
 
   /* Colors for website */
   colors: {
-    primaryColor: '#919b6e',
-    secondaryColor: '#656c4d',
+    primaryColor: '#00a65a',
+    secondaryColor: '#edf4fc',
   },
 
   /* Custom fonts for website */
