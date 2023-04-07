@@ -1,5 +1,5 @@
 ---
-id: certificado_personalizado
+id: certifi_pers_trabalho
 title: Certificado Personalizado
 sidebar_label: Certificado Personalizado
 ---

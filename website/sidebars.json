@@ -1,6 +1,13 @@
 {
   "docs": {
-    "Certificados": ["certificado_personalizado"]
+    "Certificados": ["certifi_part_ev",
+    "certifi_part_ativ",
+    "certifi_colab", 
+    "certifi_sub",
+    "certifi_aval",
+    "certifi_pers_pessoa",
+    "certifi_pers_trabalho"
+  ]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]
