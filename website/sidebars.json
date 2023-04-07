@@ -1,8 +1,6 @@
 {
   "docs": {
-    "Certificados": ["doc1", "certificado_personalizado"],
-    "First Category": ["doc2"],
-    "Second Category": ["doc3"]
+    "Certificados": ["certificado_personalizado"]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]
