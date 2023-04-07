@@ -49,7 +49,7 @@ const siteConfig = {
 
   /* path to images for header/footer */
   headerIcon: 'img/iflogo.svg',
-  footerIcon: 'img/iflogo.svg',
+  footerIcon: 'img/Pharus-icon.png',
   favicon: 'img/iflogo.svg',
 
   /* Colors for website */
