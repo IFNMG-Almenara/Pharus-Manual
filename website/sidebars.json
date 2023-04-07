@@ -1,6 +1,6 @@
 {
   "docs": {
-    "Certificados": ["doc1"],
+    "Certificados": ["doc1", "certificado_personalizado"],
     "First Category": ["doc2"],
     "Second Category": ["doc3"]
   },
