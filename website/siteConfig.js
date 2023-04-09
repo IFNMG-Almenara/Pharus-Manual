@@ -22,7 +22,7 @@ const users = [
 
 const siteConfig = {
   title: 'PHARUS', // Title for your website.
-  tagline: 'Manual de uso Pharus',
+  tagline: 'Manual de uso do sistema PHARUS',
   url: 'https://eventos.ifnmg.edu.br', // Your website URL
   baseUrl: '/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
