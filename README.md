@@ -1,4 +1,4 @@
-# Antes de Começar
+# Manual Para o Sistema PHARUS - IFNMG
 ### Dependências
 - Node.js 16.13+
 
@@ -8,4 +8,6 @@
 
 ### Executando o projeto
 1. Clone o repositório para a máquina local
-> git clone 
+> git clone git@github.com:IFNMG-Almenara/Pharus-Manual.git
+2. Abra o projeto na máquina utilizando npm. Execute o comando a seguir na pasta "website", que está no repositório local
+> npm run start
