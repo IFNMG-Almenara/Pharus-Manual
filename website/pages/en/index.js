@@ -60,12 +60,11 @@ class HomeSplash extends React.Component {
 
     return (
       <SplashContainer>
-        <Logo img_src={`${baseUrl}img/undraw_monitor.svg`} />
-        <div className="inner">
+        <div className="inner background">
           <ProjectTitle tagline={siteConfig.tagline} title={siteConfig.title} />
           <PromoSection>
-            <Button href="/help">Como usar este Manual?</Button>
             <Button href={docUrl('certifi_part_ev.html')}>Manual</Button>
+            <Button href="/help">Como usar este Manual?</Button>
           </PromoSection>
         </div>
       </SplashContainer>
@@ -90,12 +89,6 @@ class Index extends React.Component {
         />
       </Container>
     );
-
-
-
-
-
-
 
     return (
       <div>
