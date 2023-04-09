@@ -1,7 +1,7 @@
 ---
 id: certifi_pers_pessoa
-title: Certificado Personalizado
-sidebar_label: Certificado Personalizado
+title: Personalizado Para Pessoa
+sidebar_label: Personalizado Para Pessoa
 ---
 
 Check the [documentation](https://docusaurus.io) for how to use Docusaurus.

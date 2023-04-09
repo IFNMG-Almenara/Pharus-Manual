@@ -1,7 +1,7 @@
 ---
 id: certifi_part_ativ
-title: 
-sidebar_label: Certificado Personalizado
+title: Participação Nas Atividades
+sidebar_label: Participação Nas Atividades
 ---
 Check the [documentation](https://docusaurus.io) for how to use Docusaurus.
 

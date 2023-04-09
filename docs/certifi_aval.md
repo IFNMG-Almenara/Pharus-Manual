@@ -1,7 +1,7 @@
 ---
 id: certifi_aval
-title: Certificado Personalizado
-sidebar_label: Certificado Personalizado
+title: Avaliador
+sidebar_label: Avaliador
 ---
 Check the [documentation](https://docusaurus.io) for how to use Docusaurus.
 

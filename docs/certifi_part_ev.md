@@ -1,7 +1,7 @@
 ---
 id: certifi_part_ev
-title: Certificado de Participação em um evento
-sidebar_label: Participação Evento
+title: Participação No Evento
+sidebar_label: Participação No Evento
 ---
 Check the [documentation](https://docusaurus.io) for how to use Docusaurus.
 

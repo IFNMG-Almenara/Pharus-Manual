@@ -1,7 +1,7 @@
 ---
 id: certifi_sub
-title: Certificado Personalizado
-sidebar_label: Certificado Personalizado
+title: Certificado De Submissão
+sidebar_label: Certificado De Submissão
 ---
 Check the [documentation](https://docusaurus.io) for how to use Docusaurus.
 

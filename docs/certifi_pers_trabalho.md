@@ -1,7 +1,7 @@
 ---
 id: certifi_pers_trabalho
-title: Certificado Personalizado
-sidebar_label: Certificado Personalizado
+title: Personalizado Para Trabalho
+sidebar_label: Personalizado Para Trabalho
 ---
 
 Check the [documentation](https://docusaurus.io) for how to use Docusaurus.

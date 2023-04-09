@@ -1,7 +1,7 @@
 ---
 id: certifi_colab
-title: Certificado Personalizado
-sidebar_label: Certificado Personalizado
+title: Colaborador
+sidebar_label: Colaborador
 ---
 Check the [documentation](https://docusaurus.io) for how to use Docusaurus.
 
