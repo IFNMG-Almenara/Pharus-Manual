@@ -93,19 +93,7 @@ class Index extends React.Component {
 
 
 
-    const Description = () => (
-      <Block background="dark">
-        {[
-          {
-            content:
-              'This is another description of how this project is useful',
-            image: `${baseUrl}img/undraw_note_list.svg`,
-            imageAlign: 'right',
-            title: 'Description',
-          },
-        ]}
-      </Block>
-    );
+
 
     const Showcase = () => {
       if ((siteConfig.users || []).length === 0) {
@@ -142,7 +130,7 @@ class Index extends React.Component {
         <HomeSplash siteConfig={siteConfig} language={language} />
         <div className="mainContainer">
           
-          <Description />
+
           <Showcase />
         </div>
       </div>
