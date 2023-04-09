@@ -43,7 +43,7 @@ class HomeSplash extends React.Component {
     );
 
     const PromoSection = (props) => (
-      <div className="section promoSection">
+      <div className="section promoSection ">
         <div className="promoRow">
           <div className="pluginRowBlock">{props.children}</div>
         </div>
@@ -60,7 +60,7 @@ class HomeSplash extends React.Component {
 
     return (
       <SplashContainer>
-        <div className="inner background">
+        <div className="inner">
           <ProjectTitle tagline={siteConfig.tagline} title={siteConfig.title} />
           <PromoSection>
             <Button href={docUrl('certifi_part_ev.html')}>Manual</Button>
@@ -77,24 +77,10 @@ class Index extends React.Component {
     const {config: siteConfig, language = ''} = this.props;
     const {baseUrl} = siteConfig;
 
-    const Block = (props) => (
-      <Container
-        padding={['bottom', 'top']}
-        id={props.id}
-        background={props.background}>
-        <GridBlock
-          align="center"
-          contents={props.children}
-          layout={props.layout}
-        />
-      </Container>
-    );
 
     return (
       <div>
         <HomeSplash siteConfig={siteConfig} language={language} />
-        <div className="mainContainer">
-        </div>
       </div>
     );
   }
