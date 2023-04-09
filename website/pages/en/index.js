@@ -121,22 +121,6 @@ class Index extends React.Component {
       </Block>
     );
 
-    const LearnHow = () => (
-      <Block background="light">
-        {[
-          {
-            content:
-              'Each new Docusaurus project has **randomly-generated** theme colors.',
-            image: `${baseUrl}img/undraw_youtube_tutorial.svg`,
-            imageAlign: 'right',
-            title: 'Randomly Generated Theme Colors',
-          },
-        ]}
-      </Block>
-    );
-
-
-
     const Showcase = () => {
       if ((siteConfig.users || []).length === 0) {
         return null;
@@ -171,7 +155,6 @@ class Index extends React.Component {
       <div>
         <HomeSplash siteConfig={siteConfig} language={language} />
         <div className="mainContainer">
-          <LearnHow />
           <TryOut />
           <Description />
           <Showcase />
