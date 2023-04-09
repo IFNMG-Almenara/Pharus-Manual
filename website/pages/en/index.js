@@ -15,7 +15,7 @@ const GridBlock = CompLibrary.GridBlock;
 
 class HomeSplash extends React.Component {
   render() {
-    const {siteConfig, language = ''} = this.props;
+    const {siteConfig, language = 'pt-BR'} = this.props;
     const {baseUrl, docsUrl} = siteConfig;
     const docsPart = `${docsUrl ? `${docsUrl}/` : ''}`;
     const langPart = `${language ? `${language}/` : ''}`;
@@ -31,7 +31,7 @@ class HomeSplash extends React.Component {
 
     const Logo = (props) => (
       <div className="projectLogo">
-        <img src={props.img_src} alt="Project Logo" />
+        <img src={props.img_src} alt="Logo Pharus" />
       </div>
     );
 
@@ -64,9 +64,8 @@ class HomeSplash extends React.Component {
         <div className="inner">
           <ProjectTitle tagline={siteConfig.tagline} title={siteConfig.title} />
           <PromoSection>
-            <Button href="#try">Try It Out</Button>
-            <Button href={docUrl('doc1.html')}>Example Link</Button>
-            <Button href={docUrl('doc2.html')}>Example Link 2</Button>
+            <Button href="/help">Como usar este Manual?</Button>
+            <Button href={docUrl('certifi_part_ev.html')}>Manual</Button>
           </PromoSection>
         </div>
       </SplashContainer>
