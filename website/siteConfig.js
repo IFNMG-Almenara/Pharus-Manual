@@ -38,9 +38,9 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: 'doc1', label: 'Docs'},
-    {doc: 'doc4', label: 'API'},
-    {page: 'help', label: 'Help'}
+    {doc: 'certifi_aval', label: 'Documentação'},
+    // {doc: 'doc4', label: 'API'},
+    {page: 'help', label: 'Ajuda'}
     // , {blog: false, label: 'blog'},
   ],
 
@@ -48,7 +48,7 @@ const siteConfig = {
   users,
 
   /* path to images for header/footer */
-  headerIcon: 'img/iflogo.svg',
+  headerIcon: 'img/oficial-pharus-logo.png',
   footerIcon: 'img/Pharus-icon.png',
   favicon: 'img/iflogo.svg',
 
