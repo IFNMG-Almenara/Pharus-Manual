@@ -28,7 +28,7 @@ O certificado de participação no evento pode ser usado como comprovante de par
 4. Clique no botão "+ Certificados"
 ![Botão + Certificados](/img/screenshots/certificado3.png "botão + Certificados")
 
-## Preenchimento de dados para o certificado de paricipação no evento
+## Configuração do certificado de paricipação no evento
 
 1. Selecione a opção "participação no evento" na lista de opções de certificados disponíveis.
 ![Participação no evento](/img/screenshots/pnev1.png "participação no evento")

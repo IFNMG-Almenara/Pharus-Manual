@@ -77,7 +77,6 @@ class Index extends React.Component {
     const {config: siteConfig, language = ''} = this.props;
     const {baseUrl} = siteConfig;
 
-
     return (
       <div>
         <HomeSplash siteConfig={siteConfig} language={language} />

@@ -19,16 +19,29 @@ class Footer extends React.Component {
     return (
       <footer className="nav-footer" id="footer">
         <section className="sitemap">
-          <a href={this.props.config.baseUrl} className="nav-home">
-            {this.props.config.footerIcon && (
-              <img
-                src={this.props.config.baseUrl + this.props.config.footerIcon}
-                alt={this.props.config.title}
-                width="66"
-                height="58"
-              />
-            )}
-          </a>
+          <div class="col-lg-4">
+            <div class="d-flex flex-row align-items-center">
+              <a href={this.props.config.baseUrl} className="nav-home fa-solid fa-layer-group fa-xl">
+                {this.props.config.footerIcon && (
+                  <img
+                    src={this.props.config.baseUrl + this.props.config.footerIcon}
+                    alt={this.props.config.title}
+                    width="66"
+                    height="58"
+                  />
+                )}
+              </a>
+              <h2 class="Pharus">
+                Pharus
+              </h2>
+            </div>
+            <div>
+              <p>
+                Gestão de Eventos
+              </p>
+            </div>
+          </div>
+          
           <div>
             {/* <h5>Docs</h5> */}
             <a href="https://eventos.ifnmg.edu.br/#eventos">
@@ -86,19 +99,6 @@ class Footer extends React.Component {
             )}
           </div> */}
         </section>
-
-        {/* <a
-          href="https://opensource.facebook.com/"
-          target="_blank"
-          rel="noreferrer noopener"
-          className="fbOpenSource">
-          <img
-            src={`${this.props.config.baseUrl}img/oss_logo.png`}
-            alt="Facebook Open Source"
-            width="170"
-            height="45"
-          />
-        </a> */}
         <section className="copyright">{this.props.config.copyright}</section>
       </footer>
     );
