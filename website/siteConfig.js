@@ -38,10 +38,8 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: 'certifi_part_ev', label: 'Documentação'},
-    // {doc: 'doc4', label: 'API'},
+    {doc: 'visao_geral', label: 'Documentação'},
     {page: 'help', label: 'Ajuda'}
-    // , {blog: false, label: 'blog'},
   ],
 
   // If you have users set above, you add it here:
