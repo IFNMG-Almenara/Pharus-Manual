@@ -59,12 +59,39 @@
 .fa-solid, .fas {
     font-weight: 900;
 }
+.fa-layer-group {
+    content: "\f5fd";
+}
+
+.fa-xl {
+    font-size: 1.5em;
+    line-height: .04167em;
+    vertical-align: -0.125em;
+}
 
 .Pharus {
-    line-height: 0;
-    margin-top: 0;
     margin-left: 0.5rem!important;
     margin-right: 1rem!important;
-    color: white;
+}
+
+.pharus-footer { 
+    --bs-bg-opacity: 1;
+    background-color: rgba(33, 37, 41)!important;
+    --bs-text-opacity: 1;
+    color: white!important;
+    padding: .25rem!important;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: auto!important;
+}
+
+.row {
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
     display: flex;
+    flex-wrap: wrap;
+    /* margin-top: calc(-1 * var(--bs-gutter-y));
+    margin-right: calc(-.5 * var(--bs-gutter-x));
+    margin-left: calc(-.5 * var(--bs-gutter-x)); */
 }

@@ -17,17 +17,17 @@ class Footer extends React.Component {
 
   render() {
     return (
-      <footer className="nav-footer" id="footer">
-        <section className="sitemap">
+      <footer className="nav-footer pharus-footer" id="footer">
+        <section className="sitemap row">
           <div class="col-lg-4">
             <div class="d-flex flex-row align-items-center">
-              <a href={this.props.config.baseUrl} className="nav-home fa-solid fa-layer-group fa-xl">
+              <a href={this.props.config.baseUrl} className="fa-solid fa-layer-group fa-xl">
                 {this.props.config.footerIcon && (
                   <img
                     src={this.props.config.baseUrl + this.props.config.footerIcon}
                     alt={this.props.config.title}
-                    width="66"
-                    height="58"
+                    width="27"
+                    height="24"
                   />
                 )}
               </a>
@@ -36,9 +36,9 @@ class Footer extends React.Component {
               </h2>
             </div>
             <div>
-              <p>
-                Gestão de Eventos
-              </p>
+              <strong>
+              Gestão de Eventos
+              </strong>
             </div>
           </div>
           
@@ -61,45 +61,7 @@ class Footer extends React.Component {
               pharus@ifnmg.edu.br
             </a>
           </div>
-          {/* <div>
-            <h5>More</h5>
-            <a href={`${this.props.config.baseUrl}blog`}>Blog</a>
-            <a href="https://github.com/">GitHub</a>
-            <a
-              className="github-button"
-              href={this.props.config.repoUrl}
-              data-icon="octicon-star"
-              data-count-href="/facebook/docusaurus/stargazers"
-              data-show-count="true"
-              data-count-aria-label="# stargazers on GitHub"
-              aria-label="Star this project on GitHub">
-              Star
-            </a>
-            {this.props.config.twitterUsername && (
-              <div className="social">
-                <a
-                  href={`https://twitter.com/${this.props.config.twitterUsername}`}
-                  className="twitter-follow-button">
-                  Follow @{this.props.config.twitterUsername}
-                </a>
-              </div>
-            )}
-            {this.props.config.facebookAppId && (
-              <div className="social">
-                <div
-                  className="fb-like"
-                  data-href={this.props.config.url}
-                  data-colorscheme="dark"
-                  data-layout="standard"
-                  data-share="true"
-                  data-width="225"
-                  data-show-faces="false"
-                />
-              </div>
-            )}
-          </div> */}
         </section>
-        <section className="copyright">{this.props.config.copyright}</section>
       </footer>
     );
   }
