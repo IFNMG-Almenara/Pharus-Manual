@@ -38,7 +38,7 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: 'visao_geral', label: 'Documentação'},
+    {doc: 'visao_geral', label: 'Manual'},
     {page: 'help', label: 'Ajuda'}
   ],
 
@@ -53,7 +53,7 @@ const siteConfig = {
   /* Colors for website */
   colors: {
     primaryColor: '#00a65a',
-    secondaryColor: '#00a65a',
+    secondaryColor: '#065d39',
   },
 
   /* Custom fonts for website */
