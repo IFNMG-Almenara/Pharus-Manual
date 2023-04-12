@@ -20,7 +20,7 @@ O participante poderá então acessar o sistema PHARUS para baixar e imprimir se
 
 2. Na página de edição do certificado, você poderá atualizar as informações necessárias.
     - **<font color="red">1</font> Identificador do Certificado:*** Insira o "Identificador do Certificado" para identificar o certificado que está sendo configurado.
-    - **<font color="red">2</font> Layoud do Certificado:** Clique em "choose file" e faça o upload do "Layoud do Certificado" desejado
+    - **<font color="red">2</font> Layoud do Certificado:** Clique em "choose file" e faça o upload do "Layoud do Certificado" desejado, que deve ter o tamanho de 1240x1754 pixels.
     - **<font color="red">3</font> TAGs disponiveis:** Para adicionar partes textuais dinâmicas ao certificado, utilize as seguintes TAGs:
         - [participante.nome]: nome do participante
         - [evento.nome]: nome do evento
