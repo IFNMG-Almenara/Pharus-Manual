@@ -105,13 +105,6 @@ const siteConfig = {
   // repoUrl: 'https://github.com/facebook/test-site',
 };
 
-module.exports = {siteConfig,
-  head: {
-    scripts: [
-      {
-        src: "https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js",
-        defer: true,
-      },
-    ],
-  },
-};
+module.exports = siteConfig
+
+
