@@ -4,7 +4,7 @@ title: Visão Geral
 sidebar_label: Visão Geral
 ---
 
-<button class="btn btn-primary">Clique aqui</button>
+
 
 ## Qual a finalidade do sistema PHARUS
 O PHARUS é uma plataforma que oferece diversos recursos para gerenciar eventos e atividades acadêmicas, incluindo a emissão de certificados. Nesta seção, vamos apresentar uma visão geral sobre os tipos de certificados disponíveis na plataforma e o que cada um deles significa.
