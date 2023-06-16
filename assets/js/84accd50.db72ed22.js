@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmanual_pharus=self.webpackChunkmanual_pharus||[]).push([[6043],{6299:a=>{a.exports=JSON.parse('{"permalink":"/Pharus-Manual/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

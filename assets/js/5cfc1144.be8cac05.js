@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmanual_pharus=self.webpackChunkmanual_pharus||[]).push([[2452],{6062:a=>{a.exports=JSON.parse('{"permalink":"/Pharus-Manual/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmanual_pharus=self.webpackChunkmanual_pharus||[]).push([[4345],{9054:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/Pharus-Manual/blog/tags/hola","allTagsPath":"/Pharus-Manual/blog/tags","count":1}')}}]);
