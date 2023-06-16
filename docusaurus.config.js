@@ -18,7 +18,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'IFNMG - Almenara', // Usually your GitHub org/user name.
+  organizationName: 'IFNMG-Almenara', // Usually your GitHub org/user name.
   projectName: 'Pharus-Manual', // Usually your repo name.
   deploymentBranch: "gh-pages",
 
