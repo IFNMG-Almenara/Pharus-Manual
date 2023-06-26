@@ -13,7 +13,6 @@
 > git clone git@github.com:IFNMG-Almenara/Pharus-Manual.git
 2. Abra o projeto na máquina utilizando npm. Execute o comando a seguir dentro da pasta "website", que está no repositório local
 > npm run start
-# Website
 
 ### Deployment
 Abra o a pasta do repositório local no git bash e execute o seguinte comando:
