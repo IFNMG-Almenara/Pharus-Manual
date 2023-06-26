@@ -31,8 +31,8 @@ export default function Home() {
   return (
     <Layout
       class='lay'
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`Bem vindo ao ${siteConfig.title}`}
+      description="Um guia de uso completo para o sistema de eventos PHARUS">
       <HomepageHeader />
       {/* <main>
         <HomepageFeatures />
