@@ -5,7 +5,7 @@ title: Exemplo de Evento
 sidebar_label: Exemplo de Evento
 ---
 ## Exemplo de evento: Semana de Tecnologia IFNMG
-Nos sub-tópicos a seguir está contido dados ficticios que exemplificam o preenchimento do formulário de criação de evento dentro do sistema PHARUS.
+Nos sub-tópicos a seguir está contido dados ficticios que exemplificam o preenchimento do formulário de criação de evento denhasgsgahfstro do sistema PHARUS.
 
 ## Informações do Evento
 **Dados técnicos**

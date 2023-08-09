@@ -5,7 +5,7 @@ title: Criar Evento
 sidebar_label: Criar Evento
 ---
 ## Quando criar um evento
-O PHARUS é um sistema de gestão de eventos que permite a criação, organização e gerenciamento de eventos de forma simples e eficiente. Para criar um evento no PHARUS, é importante ter em mente alguns aspectos importantes.
+O PHARUS é um sistema de gestão de eventos que permite a criação, organização e gerenciamento de eventos de forma simples e eficiente. Para criar um evento no PHARUS, é importante ter em mente alguns aspectos importantes.fgdfgdgd gddg gdghdf fdhg
 
 Em primeiro lugar, é preciso definir qual o **objetivo do evento e quem é o público-alvo**. É importante ter em mente que o PHARUS permite a criação de eventos de diversos tipos, como congressos, seminários, simpósios, cursos, workshops, entre outros.
 
