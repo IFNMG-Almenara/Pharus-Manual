@@ -1,9 +1,4 @@
----
-sidebar_position: 5
-id: certifi_aval
-title: Avaliador
-sidebar_label: Avaliador
----
+h
 ## Quando emitir um certificado de avaliador
 O certificado de avaliador deve ser emitido para aqueles que desempenharam a função de avaliar trabalhos, projetos ou apresentações em um evento específico. 
 
